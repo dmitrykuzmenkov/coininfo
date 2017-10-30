@@ -22,7 +22,7 @@
     "tape": "^4.6.3"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coininfo",
+    "url": "https://github.com/dmitrykuzmenkov/coininfo",
     "type": "git"
   },
   "main": "./lib/coininfo.js",
